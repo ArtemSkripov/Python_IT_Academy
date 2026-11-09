@@ -1,3 +1,4 @@
+#d
 text = 'Functional programming'
 clear_text = text.replace(' ','')
 dict_text = {}
