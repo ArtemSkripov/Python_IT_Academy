@@ -1,0 +1,18 @@
+[
+{
+"match_id": "m_101",
+"map": "Dust2",
+"players": [
+{"nickname": "Shadow", "kills": 22, "deaths": 14},
+{"nickname": "Viper", "kills": 15, "deaths": 18}
+]
+},
+{
+"match_id": "m_102",
+"map": "Mirage",
+"players": [
+{"nickname": "Shadow", "kills": 18, "deaths": 18},
+{"nickname": "Ghost", "kills": 25, "deaths": 10}
+]
+}
+]
